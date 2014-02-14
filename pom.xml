@@ -13,6 +13,20 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  
+  <scm>
+        <connection>
+            scm:git:git://github.com/VicRattlehead/Maven.git
+        </connection>
+        <developerConnection>
+            scm:git:https://github.com/VicRattlehead/Maven.git
+        </developerConnection>
+        <url>
+            https://github.com/VicRattlehead/Maven.git
+        </url>
+        
+    
+  </scm>
 
   <dependencies>
     <dependency>
