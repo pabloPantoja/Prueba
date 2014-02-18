@@ -16,13 +16,13 @@
   
   <scm>
         <connection>
-            scm:git:git://github.com/VicRattlehead/Maven.git
+            scm:git:git://github.com/pabloPantoja/Prueba.git
         </connection>
         <developerConnection>
-            scm:git:https://github.com/VicRattlehead/Maven.git
+            scm:git:https://github.com/pabloPantoja/Prueba.git
         </developerConnection>
         <url>
-            https://github.com/VicRattlehead/Maven.git
+            https://github.com/pabloPantoja/Prueba.git
         </url>
         
     
